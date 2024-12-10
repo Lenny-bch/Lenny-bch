@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lenny Boucher</h1>
+<h1 align="center">Hi 👋, I'm HyrO</h1>
 <h3 align="center">A passionate man from France, i love video games</h3>
 
 
